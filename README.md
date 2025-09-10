@@ -1,7 +1,7 @@
 # Username Availability Checker
 
 A modern web application built with Vue.js 3 and Node.js that checks username availability across multiple social media and website platforms.
-
+[![Donate](https://github.com/nkayzai/username-checker/blob/main/screenshot/1.png?raw=true)]()
 ## Features
 
 ### Frontend (Vue.js 3)
